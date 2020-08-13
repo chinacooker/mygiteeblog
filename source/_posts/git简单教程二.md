@@ -2,19 +2,9 @@
 title: git简单教程二
 date: 2020-01-05 13:59:45
 categories:
-	- dev
+	- 版本控制
 tags:
 	- git
-	- init
-	- commit
-	- reset
-	- diff
-	- log
-	- show
-	- reset
-	- reflog
-	- checkout
-	- rm
 ---
 ## 初始化仓库，修改，提交
 上一篇我们说了有远端代码基础上，我们clone一个基础的版本下来，然后在这个基础上进行工作，如果我们直接不管远程，直接本地开干呢？

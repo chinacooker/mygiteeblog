@@ -2,18 +2,9 @@
 title: git简单教程一
 date: 2020-01-02 10:50:56
 categories:
-	- dev
+	- 版本控制
 tags:
 	- git
-	- github
-	- gitlab
-	- gitee
-	- branch
-	- clone
-	- push
-	- pull
-	- status
-	- checkout
 ---
 ## 安装
 安装就不多说了，linux，mac，windows都是支持的，大家网上可以找到很多教程。

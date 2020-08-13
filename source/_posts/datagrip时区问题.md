@@ -5,11 +5,6 @@ categories:
 	- sql
 tags:
 	- datagres
-	- sql
-	- 时区
-	- timezone
-	- UTC
-	- PRC
 ---
 ## 时区显示
 datagris配置数据源就不多做介绍了，我们如果发现服务端查数据和客户端查数据不一致时，需要看一下时区是不是正确。

@@ -1,12 +1,11 @@
 ---
 title: locust之二-等待时间
 date: 2020-01-18 09:32:25
-categories: 
-	- locust
+categories:
+	- 性能测试
 tags:
 	- locust
-	- 性能测试
-	- wait_time
+	- python
 ---
 ## 等待时间
 等待时间是指每个用户执行完一次操作后的等待时间，一般有3种形式：

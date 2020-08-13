@@ -2,15 +2,9 @@
 title: git简单教程三
 date: 2020-01-06 17:09:53
 categories:
-	- dev
+	- 版本控制
 tags:
 	- git
-	- checkout
-	- stash
-	- pop
-	- branch
-	- commit
-	- cherry-pick
 ---
 ## 新建分支
 创建分支之前我们说过，就是git checkout -b 分支名，可用（git branch 分支名+git checkout 分支名代替） 。

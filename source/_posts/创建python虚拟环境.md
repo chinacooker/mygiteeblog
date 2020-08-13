@@ -4,7 +4,6 @@ date: 2020-01-16 15:52:48
 categories:
 	- python
 tags:
-	- python
 	- venv
 ---
 ## 演示

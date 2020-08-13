@@ -4,11 +4,7 @@ date: 2020-01-01 00:00:00
 categories:
 	- blog
 tags:
-	- node
-	- markdown
-	- git
-	- blog
-	- gitee
+	- hexo
 ---
 ## 今年，我们需要有自己的博客
 ### Hexo

@@ -2,11 +2,10 @@
 title: pytest之二
 date: 2020-01-12 11:29:40
 categories:
-	- pytest
+	- 自动化测试
 tags:
 	- pytest
 	- python
-	- unittest
 ---
 ## pytest执行覆盖
 文件：test_开头或者_test结尾；<br>

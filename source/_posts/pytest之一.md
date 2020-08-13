@@ -2,11 +2,10 @@
 title: pytest之一
 date: 2020-01-11 09:29:40
 categories:
-	- pytest
+	- 自动化测试
 tags:
 	- pytest
 	- python
-	- unittest
 ---
 ## 入门
 pytest是unnittest的升级版，需要下载pip install pytest即可

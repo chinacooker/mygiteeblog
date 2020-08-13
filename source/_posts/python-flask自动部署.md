@@ -2,20 +2,12 @@
 title: python+flask自动部署
 date: 2020-05-20 10:51:07
 categories:
-	- python
+	- 持续集成
 tags:
-	- python
 	- flask
 	- docker
 	- k8s
-	- kubectl
-	- ci
-	- deploy
-	- apply
-	- svc
-	- pod
-	- grep
-	- yaml
+	- python
 ---
 ## 本地环境
 python3.6.8,Flask==0.12,

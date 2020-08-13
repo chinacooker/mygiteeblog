@@ -4,8 +4,6 @@ date: 2020-01-10 17:13:05
 categories:
 	- mock
 tags:
-	- mock
-	- mocky
 	- charles
 	- proxy
 ---

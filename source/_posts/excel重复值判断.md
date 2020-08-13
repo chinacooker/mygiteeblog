@@ -2,12 +2,9 @@
 title: excel重复值判断
 date: 2020-01-13 09:11:40
 categories:
-	- excel
+	- 数据处理
 tags:
 	- excel
-	- diff
-	- 重复
-	- 条件格式
 ---
 ## 背景
 今天遇到一个情况，我们调用的服务方的接口有2个字段，2个字段都是一个list，规定2个list里的值都不能重复。<br>

@@ -1,12 +1,11 @@
 ---
 title: locust之四-TaskSet类中断
 date: 2020-01-25 11:33:38
-categories: 
-	- locust
+categories:
+	- 性能测试
 tags:
 	- locust
-	- 性能测试
-	- interrupting
+	- python
 ---
 ## 背景
 TaskSet类进入后，类本身是不会主动退出这个类的，如果要退出这个类需要怎么做的，答案是需要TaskSet.interrupt（）方法来完成。

@@ -2,10 +2,10 @@
 title: locust之一
 date: 2020-01-15 16:29:40
 categories:
-	- locust
+	- 性能测试
 tags:
 	- locust
-	- 性能测试
+	- python
 ---
 ## 背景
 由于对java不是很熟悉，对python有一定的了解，最近对于性能又有了解的需求，之前一直是用jmeter做的性能测试，搜了下，python也有locust的，于是乎，开干。

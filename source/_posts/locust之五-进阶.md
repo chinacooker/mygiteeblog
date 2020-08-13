@@ -1,16 +1,11 @@
 ---
 title: locust之五-进阶
 date: 2020-01-29 03:32:25
-categories: 
-	- locust
+categories:
+	- 性能测试
 tags:
 	- locust
-	- 性能测试
-	- FastHttpUser
-	- headless
-	- step-load
-	- step-users
-	- conf
+	- python
 ---
 ## FastHttpUser
 我们一般默认都是使用HttpUser这个类，但如果我们需要更好的http请求性能，可以使用FastHttpUser，但是FastHttpUser并不能兼容所有的HttpUser的功能，特别是post请求，大家可以自己尝试下。<br>

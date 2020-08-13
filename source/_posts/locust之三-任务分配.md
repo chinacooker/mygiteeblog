@@ -1,16 +1,11 @@
 ---
 title: locust之三-任务分配
 date: 2020-01-21 11:33:38
-categories: 
-	- locust
+categories:
+	- 性能测试
 tags:
 	- locust
-	- 性能测试
-	- task
-	- User
-	- HttpUser
-	- TaskSet
-	- tasks
+	- python
 ---
 ## 任务分配
 在jmeter里我们可以执行多个接口的压测，例如测试接口A和接口B，压测的时候又要求A和B的请求比例是1：2，locust也是可以实现的，之前就已经说过了。
